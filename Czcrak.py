@@ -1,4 +1,4 @@
-# compile by - Younis John
+# compile by - Chanuka Ravindu
 # https://github.com/YounisJohn
 # https://www.facebook.com/noob.hackers
 import marshal
